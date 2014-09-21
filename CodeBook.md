@@ -9,6 +9,7 @@ The aforementioned tables are found in the outputs 'summary_test.txt' and 'summa
 ===============================================================================
 
 1.  activity
+
     Description of the 6 different activities performed by each person in the 
     study (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
     
