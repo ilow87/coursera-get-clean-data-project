@@ -35,8 +35,7 @@ The summary results data tables can be found in the following files:
       - data
       
 3.  Obtaining column numbers for mean and standard deviation measurements only.
-    Column numbers are assigned into:
-      - data.cols
+    Column numbers are assigned into: data.cols.
     Using data.cols, data is then rebuilt to only contain mean and 
     standard deviation measurements along with the row headings activity_code and subject_code.
     
