@@ -24,13 +24,13 @@ The summary results data tables can be found in the following files:
       - 'y_train.txt'         : numeric code for activity in each training observation
       - 'x_train.txt'         : values of measurements in training observations 
       
-2.  Joining subject observations table, activity observation table and measurement observation 
+2A. Joining subject observations table, activity observation table and measurement observation 
     table to form a single data table.
     Process repeated for both test and training data. Observations are assigned into the 
     following data frames:
       - data.test
       - data.train
-    Joining data.test and data.train to form 1 data table containing all test & training observations.
+2B. Joining data.test and data.train to form 1 data table containing all test & training observations. 
     Combined oversavations are assigned into the following data frame:
       - data
       
